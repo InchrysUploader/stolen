@@ -98,3 +98,7 @@ body {
     width: 200px;
   }
 }
+img {
+  width: auto,
+  height: 100px
+}
