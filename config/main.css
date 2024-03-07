@@ -9,13 +9,13 @@
   --accent-color: #404040;
 }
 * {
-  font-family: ubuntu;
+  font-family: Montserrat;
 }
 /* General styles */
 body {
   background-color: var(--background-color);
   color: var(--text-color);
-  font-family: "ubuntu", sans-serif;
+  font-family: "Montserrat";
   margin: 0;
   padding: 0;
   -webkit-user-select: none;
